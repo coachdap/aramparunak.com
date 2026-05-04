@@ -1,0 +1,50 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+// When you update this page, also update the date below.
+const lastUpdated = new Date('2026-05-04');
+const fmt = lastUpdated.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+---
+
+<BaseLayout
+  title="Now"
+  description="What Aram Parunak is spending his time on right now."
+>
+  <h1>Now</h1>
+
+  <p>This is what I'm spending my time on right now.</p>
+
+  <h2>The new facility</h2>
+
+  <p>
+    I'm negotiating the LOI on a 150×80 warehouse in Charlotte that will
+    become Hoops College's permanent home. I'm also estimating what it will
+    cost to convert the space and move in — flooring, hoops, locker rooms,
+    the rest. Lease terms first, then build-out.
+  </p>
+
+  <h2>The program</h2>
+
+  <p>
+    I'm running the day-to-day. Training sessions. Schedule. Tracking each
+    player's progress. Managing the finances. Working through the always-on
+    reality of a small business — including the families who decide to quit.
+    Some go because they aren't willing to do the work. Some go because life
+    changes. We help the ones who stay get better.
+  </p>
+
+  <h2>The app</h2>
+
+  <p>
+    The Hoops College shooting analysis app is in beta. Computer vision,
+    real feedback on shooting form. I'm not spending much time on it right
+    now beyond finding testers. If you coach a team and you want to put it
+    in your players' hands, <a href="/contact/">email me</a>.
+  </p>
+
+  <p class="muted" style="margin-top: var(--space-5);">Last updated {fmt}</p>
+</BaseLayout>

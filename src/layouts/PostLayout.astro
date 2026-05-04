@@ -1,0 +1,57 @@
+---
+// Single blog post layout.
+import BaseLayout from './BaseLayout.astro';
+import { SITE } from '../consts';
+
+interface Props {
+  title: string;
+  description: string;
+  date: Date;
+  slug: string;
+}
+
+const { title, description, date, slug } = Astro.props;
+
+const formattedDate = date.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+const isoDate = date.toISOString();
+const url = new URL(`/writing/${slug}/`, Astro.site).toString();
+
+// Article schema for SEO.
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  datePublished: isoDate,
+  author: {
+    '@type': 'Person',
+    name: SITE.author,
+    url: SITE.url,
+  },
+  mainEntityOfPage: url,
+  url,
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  ogType="article"
+  jsonLd={jsonLd}
+>
+  <article class="post">
+    <header>
+      <h1>{title}</h1>
+      <time class="post-date" datetime={isoDate}>{formattedDate}</time>
+    </header>
+    <div class="post-body">
+      <slot />
+    </div>
+    <a class="back-link" href="/writing/">← Back to writing</a>
+  </article>
+</BaseLayout>

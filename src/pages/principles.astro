@@ -1,0 +1,108 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const principles = [
+  {
+    title: 'Greatness is lonely.',
+    body: [
+      'Greatness is built in the dark, not in the light. By the time anyone sees it, the work is already done.',
+      'Most people see themselves improve a little and think they\'re ready. They aren\'t. They\'ve just barely started. The path forward is more of the same — alone, repetitive, mostly invisible. Most won\'t go back through it. The ones who do are the ones who get good.',
+    ],
+  },
+  {
+    title: 'Truth is love.',
+    body: [
+      'Telling someone the real thing — what\'s working, what isn\'t, what they need to do, what they aren\'t doing — is the kind thing. Flattery isn\'t kindness. It\'s how people end up overrated, exposed, and stuck.',
+      'Tell the truth. Do it with care. Don\'t soften it into something that doesn\'t help.',
+    ],
+  },
+  {
+    title: 'Go fast. Fail often. Have fun.',
+    body: [
+      'This is how skill actually gets built. Move at full speed. Mess up. Adjust. Move at full speed again. Fear of failure is what slows people down, and slow practice doesn\'t transfer to real performance.',
+      'The fun is in getting better. If you aren\'t getting better, you know it, and it stops being fun. The people who get good are the ones willing to look bad on the way there.',
+    ],
+  },
+  {
+    title: 'The work works.',
+    body: [
+      'If you do the right work, the results follow. There is no shortcut around this. No hack, no app, no event, no mentor, no shortcut will substitute for it.',
+      'Most of what gets sold to people is a substitute for the work. None of it works. The work works.',
+    ],
+  },
+  {
+    title: 'There is a progression. Most people skip most of it.',
+    body: [
+      'Anything worth learning is a sequence. Fundamentals first. Then combinations. Then application. Then the same progression again at a higher level.',
+      'Most people skip seven or eight stages and jump straight to the end. Then they wonder why they\'re stuck. They\'re stuck because there\'s no foundation under them. You can\'t combine skills you don\'t have. You can\'t read a situation you\'ve never been taught to read.',
+    ],
+  },
+  {
+    title: 'Effort needs direction.',
+    body: [
+      'Everyone is told to work hard on their own. Most don\'t, but the ones who do often don\'t know what to work on. They copy what they see online. They put in reps without a target.',
+      'Effort without direction is wasted. The job of a teacher is to give people the right things to do, in the right order, so the work they put in actually moves them forward.',
+    ],
+  },
+  {
+    title: 'Mastery is taught last, not first.',
+    body: [
+      'Teaching someone to perform at the highest level is important. Teaching them to perform at the highest level before they have the tools is stupidity. It puts the cart in front of the horse and rewards the people who happen to be biggest, fastest, or earliest to mature — not the ones who actually understand the craft.',
+      'Get the tools. Then practice. Then learn to win. In that order.',
+    ],
+  },
+  {
+    title: 'Don\'t compete before you\'re ready.',
+    body: [
+      'There\'s a time for live competition, and there\'s a time before it. Pushing into high-stakes performance too early doesn\'t make people better. It makes them worse, and often it gets them hurt.',
+      'The body needs rest. The skills need time to develop in lower-stakes environments. People need their lives. None of that fits into a calendar built around constant competition.',
+    ],
+  },
+  {
+    title: 'Year-round, but not at any cost.',
+    body: [
+      'Specializing too early is bad for people. So is being so spread out that nothing improves. The answer is consistency at a sustainable pace.',
+      'A serious practice is a year-round practice. The reason people stay with it for years is that they aren\'t burned out. The teaching keeps going, and they keep improving.',
+    ],
+  },
+  {
+    title: 'Recognition is a trailing indicator, not a leading one.',
+    body: [
+      'You can\'t deliver recognition. No one can. The people who matter find the people who are good enough to find. The work is to be ready when they do.',
+      'Most people chasing recognition aren\'t ready, and recognition won\'t fix that. The ones who are ready get found. Spending years trying to be seen, instead of trying to be good, is the central scam of almost every field.',
+    ],
+  },
+  {
+    title: 'While they\'re with me, they\'re my responsibility.',
+    body: [
+      'People who work with me aren\'t customers. They\'re mine. I treat them the way I\'d treat my own — which means I hold them accountable, I tell them the truth, and I care about who they become as people, not just as performers.',
+    ],
+  },
+  {
+    title: 'Support the ideals. Let me handle the craft.',
+    body: [
+      'The job of the people around someone learning is to support what\'s being taught — the work ethic, the patience, the honesty, the long view. The job of the teacher is to teach the craft.',
+      'People who try to coach from the side are working against the teaching, even when they mean well. People who don\'t engage at all leave the learner with no support outside the room. Both ways the learner loses. The ones who get the most out of this are the ones whose people do their job and let me do mine.',
+    ],
+  },
+];
+---
+
+<BaseLayout
+  title="What I Believe"
+  description="Twelve principles Aram Parunak works by."
+>
+  <h1>What I Believe</h1>
+
+  <p>These are the principles I live by.</p>
+
+  {
+    principles.map((p, i) => (
+      <section class="principle">
+        <span class="principle-number">{String(i + 1).padStart(2, '0')}</span>
+        <h2>{p.title}</h2>
+        {p.body.map((para) => <p>{para}</p>)}
+      </section>
+    ))
+  }
+</BaseLayout>

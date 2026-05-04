@@ -1,0 +1,281 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE, SOCIAL } from '../consts';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: SITE.author,
+  url: SITE.url,
+  email: `mailto:${SITE.email}`,
+  sameAs: [SOCIAL.linkedin, SOCIAL.x, SOCIAL.instagram, SOCIAL.hoopscollege],
+};
+---
+
+<BaseLayout
+  title="About"
+  description="Where I started, what I do, and why I do it."
+  jsonLd={jsonLd}
+>
+  <h1>About</h1>
+
+  <p>
+    I grew up in West Jefferson, North Carolina. Oldest of four. Small town
+    in the Appalachian foothills. No AAU, no rec center, no YMCA, no training.
+    Just a hoop in the backyard, on a grassy hill, and a lot of time.
+  </p>
+
+  <p>
+    When I was 10, doctors told me I had lupus. It took them over two months
+    of testing to land on that. They were wrong. I figured that out 30 years
+    later. In between, I had three lymph nodes removed from my neck, a kidney
+    biopsy, and a bone marrow biopsy. I was a research project. I took
+    prednisone and gained weight. I got tired in PE. I missed the part of
+    childhood where you find out what kind of athlete you are.
+  </p>
+
+  <p>
+    I went to a doctor for the first time in 30 years a while back, just to
+    check in. She talked to me for five minutes and said I bet you had mono
+    and I can prove it. One blood test. She was right.
+  </p>
+
+  <p>
+    I don't know what I would have been as a player. I don't think about it
+    much. It is what it is.
+  </p>
+
+  <h2>Basketball found me</h2>
+
+  <p>
+    Nobody coached me. A relative told me to make sure I could dribble with
+    both hands. That was about it. I rebounded my own shots in the backyard
+    for hours, on a hill in the grass. At my grandparents' house, it was flat,
+    on gravel. I wasn't training. I didn't know that was a thing. I was just
+    having fun.
+  </p>
+
+  <p>
+    I watched Dean Smith. I didn't read his books until later, after I started
+    coaching. As a kid I just liked the team. I didn't know other levels of
+    basketball existed besides UNC and the ACC. I didn't have favorite
+    players. I loved the team and the man who led it.
+  </p>
+
+  <p>
+    I got cut my freshman year of high school. Almost passed out in tryouts.
+    Made the team every year after that and contributed, but I was never the
+    star. Nobody outworked me.
+  </p>
+
+  <h2>Chapel Hill</h2>
+
+  <p>
+    I went to UNC for math on a full academic scholarship. I lost it. I was
+    good at math in high school, but I shouldn't have majored in it. I didn't
+    know I could switch. I just didn't know. Self-aware about most things,
+    but I didn't know college worked like that.
+  </p>
+
+  <p>
+    I tried out for the JV team. Couldn't miss in warmups — one of the
+    managers even said something. Got exposed as soon as the games started.
+    The gap was too big. I never tried out again.
+  </p>
+
+  <p>
+    I spent too much time in the gym. Woolen and Fetzer, hours on end. If
+    people were playing, I played. If they weren't, I shot. I lifted. I tried
+    things. Nobody was watching.
+  </p>
+
+  <p>
+    I never drank. I didn't party. I worked at my job on campus and I played
+    basketball. That was the whole life and I was happy.
+  </p>
+
+  <p>
+    Right after graduation I was still working on campus and I saw a team
+    practicing one afternoon. I didn't know it was a team. They asked me to
+    practice with them. A few weeks later they asked me to coach them — the
+    previous coach had quit. That's when it started. I was the head coach of
+    the UNC women's club team for the next four years and I never looked back.
+  </p>
+
+  <h2>Two tracks at once</h2>
+
+  <p>
+    For about a decade I had two careers. I built things at universities —
+    classroom technology infrastructure, networks, support systems. At NC
+    State I founded a unit from scratch as the only employee and built it
+    into one of the most critical operations on campus. Eleven full-time
+    employees, 55 total staff including the 11, 85 multimedia classrooms,
+    multiple project budgets over $150K, total budgets over $1M. I was good
+    at it because I worked all the time.
+  </p>
+
+  <p>
+    I drove from Raleigh to Chapel Hill constantly to coach the women's club
+    team. I sent work emails at midnight. I took vacation days to work
+    basketball camps. I didn't take real vacations. I didn't see it as
+    balance. I just did the work.
+  </p>
+
+  <p>
+    The tech career was real and I cared about it. But coaching was the thing.
+  </p>
+
+  <h2>Going all in on coaching</h2>
+
+  <p>
+    I left NC State and took a massive pay cut to go to Coker as an
+    assistant. Lived in a hole in the wall in Hartsville to save money.
+    Worked too much — I was part time, but I put in 40+ hours a week — and
+    got fired for it. They paid me to leave so I "wouldn't get them in
+    trouble." I had a great time there until that day.
+  </p>
+
+  <p>
+    From there I went to Apprentice School as a volunteer assistant. The head
+    coach knew me from working camps. I started teaching math as adjunct
+    faculty to pay rent — algebra through calculus, plus tutoring. Eventually
+    I ran their IT too. Then I became Associate Head Coach and Offensive
+    Coordinator. We went 56-26 over my three seasons as OC. Across my full
+    tenure at Apprentice, we finished top 10 nationally four times, top five
+    three times, and developed ten USCAA All-Americans. I served as interim
+    head coach.
+  </p>
+
+  <p>
+    I kept coaching at the college level for the next decade. UNC Asheville,
+    Presbyterian, Combine Academy, Johnson &amp; Wales. At Johnson &amp;
+    Wales we won a national championship and went to the USCAA Final Four. I
+    coached All-Americans, recruited internationally, ran programs.
+  </p>
+
+  <p>
+    I also learned how college coaching actually works. The politics. How
+    some coaches treat people. How some "famous" ones aren't who their
+    reputations say they are. Not all of them. But enough.
+  </p>
+
+  <h2>Kristin</h2>
+
+  <p>
+    I met Kristin in 2013 at a recruiting and coaching conference. We got
+    married in 2014.
+  </p>
+
+  <p>
+    She was a highly recruited player out of high school — sixteen D1
+    scholarship offers. She had bad experiences as a player. She got into
+    coaching after she finished, and she knew the business side of college
+    basketball cold. Things I hadn't seen yet, even after years in it.
+  </p>
+
+  <p>
+    She is also the reason I eventually left college coaching to chase Hoops
+    College full time. I never saw myself as entrepreneurial. But here we are.
+  </p>
+
+  <h2>Why Hoops College exists</h2>
+
+  <p>
+    I started Hoops College in 2010 while I was still at Apprentice School.
+    We were on the bus after a bad game, and I was trying to figure out why
+    we were struggling. The conclusion I came to was that our players had
+    never been taught the game from a young age. They had been moved through
+    a system that produced participation but not skill. I thought I could do
+    it differently. So I started running small camps on the side.
+  </p>
+
+  <p>
+    I didn't push it hard at first. I had a team, and that came first.
+  </p>
+
+  <p>
+    Combine Academy showed me something I needed to see. I was Executive
+    Director of the women's basketball program. The marketing was good. The
+    branding was good. The packaging looked elite. And it didn't mean
+    anything, because there was no accountability at the top and no real
+    interest in what was best for the athletes. The polished version of
+    youth basketball, from the inside, was hollow.
+  </p>
+
+  <p>
+    That's when I knew Hoops College had to be the real thing. Not a brand.
+    A program. Stage-based development. Accountability. A system that
+    actually produces players, taught by people who care about kids more
+    than they care about the next tournament check.
+  </p>
+
+  <p>
+    I spent the next several years developing the coursework. I left college
+    coaching in 2019 and started training. The work was small at first. I
+    answered a Thumbtack post. Word of mouth did the rest. Most of the first
+    families were from the Indian community in Charlotte. The kids were
+    beginners — many had never picked up a ball. A few of them are still
+    with us seven years later. One is a sixth grader playing on a high
+    school JV team.
+  </p>
+
+  <p>
+    In spring of 2020 we closed the facility for three or four months.
+    Kristin and I worked warehouse jobs at Amazon to pay the bills. We kept
+    paying rent on the gym the whole time. We didn't want to lose what we'd
+    built. We reopened the same facility that summer.
+  </p>
+
+  <p>
+    I've placed more than 50 athletes into college basketball programs in
+    the US and internationally. I run daily skill development sessions with
+    players from age four through professionals. I do the strength and
+    conditioning. I break down film. I run the shooting machine. I take
+    every phone call from a new family. I mop the floors and clean the
+    bathrooms.
+  </p>
+
+  <p>
+    Since 2020 I've designed and built four basketball facilities from
+    scratch — close to 14,000 square feet total. I designed and built the
+    Hoops College website. It got hacked more than once on WordPress. I
+    finally decided to run the server myself so I could lock it down. I
+    built that too. I produce hours of free audio and video. I write. The
+    blog has hundreds of entries.
+  </p>
+
+  <p>The point is: I do the work. I always have.</p>
+
+  <h2>What I'm doing now</h2>
+
+  <p>
+    I'm working on a permanent training facility in Charlotte — a 150×80
+    warehouse I'm in the middle of negotiating for. It would be the home
+    Hoops College has needed for years. I'm developing a basketball shooting
+    analysis app that uses computer vision to give players real feedback.
+    I'm writing more.
+  </p>
+
+  <p>
+    More on that on the <a href="/now/">now page</a>.
+  </p>
+
+  <h2>Why I keep doing this</h2>
+
+  <p>
+    Coaching wasn't a plan. It found me when I was working an IT job on a
+    campus where I'd just spent four years figuring out how to be alright. I
+    never expected basketball to be my career, and I'm self-aware enough to
+    know I wasn't built to be a great player. That's fine. It worked out
+    the way it worked out.
+  </p>
+
+  <p>
+    What I'm built for is this: teaching people how to get better, building
+    the systems that let them, and being honest about all of it.
+  </p>
+
+  <p>That's the whole thing.</p>
+
+  <p class="muted" style="margin-top: var(--space-4);">— Aram</p>
+</BaseLayout>

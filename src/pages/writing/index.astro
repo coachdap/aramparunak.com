@@ -1,0 +1,75 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const all = (await getCollection('writing')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+
+// "Start here" = featured posts, capped at 5.
+const featured = all.filter((p) => p.data.featured).slice(0, 5);
+
+// Archive = everything else, grouped by year.
+const featuredIds = new Set(featured.map((p) => p.id));
+const archive = all.filter((p) => !featuredIds.has(p.id));
+
+const archiveByYear = archive.reduce<Record<string, typeof archive>>(
+  (acc, post) => {
+    const year = String(post.data.date.getFullYear());
+    (acc[year] ||= []).push(post);
+    return acc;
+  },
+  {}
+);
+
+const years = Object.keys(archiveByYear).sort((a, b) => Number(b) - Number(a));
+
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+---
+
+<BaseLayout
+  title="Writing"
+  description="Essays by Aram Parunak on coaching, basketball development, and the work itself."
+>
+  <h1>Writing</h1>
+
+  {
+    featured.length > 0 && (
+      <>
+        <h2 class="section-title">Start here</h2>
+        <ul class="post-list">
+          {featured.map((post) => (
+            <li>
+              <a href={`/writing/${post.slug}/`}>{post.data.title}</a>
+              <span class="post-meta">{fmt(post.data.date)}</span>
+              <span class="post-desc">{post.data.description}</span>
+            </li>
+          ))}
+        </ul>
+      </>
+    )
+  }
+
+  {
+    archive.length > 0 && (
+      <>
+        <h2 class="section-title">Archive</h2>
+        {years.map((year) => (
+          <>
+            <div class="year-header">{year}</div>
+            <ul class="post-list">
+              {archiveByYear[year].map((post) => (
+                <li>
+                  <a href={`/writing/${post.slug}/`}>{post.data.title}</a>
+                  <span class="post-meta">{fmt(post.data.date)}</span>
+                  <span class="post-desc">{post.data.description}</span>
+                </li>
+              ))}
+            </ul>
+          </>
+        ))}
+      </>
+    )
+  }
+</BaseLayout>

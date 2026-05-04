@@ -1,0 +1,21 @@
+---
+// Wordmark-only header. Hidden on the home page (where the wordmark
+// already appears as H1) — pass `showWordmark={false}` to suppress.
+import { SITE } from '../consts';
+
+interface Props {
+  showWordmark?: boolean;
+}
+
+const { showWordmark = true } = Astro.props;
+---
+
+{
+  showWordmark && (
+    <header class="site-header">
+      <div class="container">
+        <a class="wordmark" href="/">{SITE.title}</a>
+      </div>
+    </header>
+  )
+}

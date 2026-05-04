@@ -1,0 +1,16 @@
+---
+import { SITE, SOCIAL } from '../consts';
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="container">
+    <div>© {year} {SITE.author}</div>
+    <ul>
+      <li><a href={SOCIAL.linkedin} rel="me noopener">LinkedIn</a></li>
+      <li><a href={SOCIAL.x} rel="me noopener">X</a></li>
+      <li><a href={SOCIAL.instagram} rel="me noopener">Instagram</a></li>
+      <li><a href={`mailto:${SITE.email}`}>Email</a></li>
+    </ul>
+  </div>
+</footer>

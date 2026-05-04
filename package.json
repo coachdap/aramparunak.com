@@ -1,0 +1,22 @@
+{
+  "name": "aramparunak.com",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^3.1.7",
+    "@astrojs/rss": "^4.0.7",
+    "@astrojs/sitemap": "3.2.1",
+    "astro": "^4.16.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}

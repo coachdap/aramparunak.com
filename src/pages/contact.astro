@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE, SOCIAL } from '../consts';
+---
+
+<BaseLayout
+  title="Contact"
+  description="Get in touch with Aram Parunak."
+>
+  <h1>Contact</h1>
+
+  <p>The best way to reach me is email.</p>
+
+  <p>
+    <a href={`mailto:${SITE.email}`}>{SITE.email}</a>
+  </p>
+
+  <p>
+    I read everything. I respond when I can. If you're writing about training
+    at Hoops College, <a href={SOCIAL.hoopscollege} rel="noopener">hoopscollege.com</a>
+    is the faster path.
+  </p>
+
+  <p>You can also find me here:</p>
+
+  <ul class="link-list">
+    <li>
+      <span class="arrow">→</span>
+      <a href={SOCIAL.linkedin} rel="me noopener">LinkedIn</a>
+    </li>
+    <li>
+      <span class="arrow">→</span>
+      <a href={SOCIAL.x} rel="me noopener">X</a>
+    </li>
+    <li>
+      <span class="arrow">→</span>
+      <a href={SOCIAL.instagram} rel="me noopener">Instagram</a>
+    </li>
+  </ul>
+</BaseLayout>

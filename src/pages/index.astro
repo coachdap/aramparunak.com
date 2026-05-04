@@ -1,0 +1,68 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE, SOCIAL } from '../consts';
+
+// Recent 5 posts for the homepage list.
+const posts = (await getCollection('writing')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+const recent = posts.slice(0, 5);
+
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+
+// Person schema, attached to home + about.
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: SITE.author,
+  url: SITE.url,
+  email: `mailto:${SITE.email}`,
+  sameAs: [SOCIAL.linkedin, SOCIAL.x, SOCIAL.instagram, SOCIAL.hoopscollege],
+  jobTitle: 'Coach, builder, writer',
+};
+---
+
+<BaseLayout
+  title={SITE.title}
+  description={SITE.description}
+  showWordmark={false}
+  jsonLd={jsonLd}
+>
+  <h1 class="wordmark">Aram Parunak</h1>
+
+  <section class="intro">
+    <p>I coach. I write. I build.</p>
+    <p>I'm a believer. I'm a husband. I'm a father.</p>
+    <p>
+      <a href={SOCIAL.hoopscollege} rel="noopener">Hoops College</a> in Charlotte
+      is where most of the work happens. The writing is here.
+    </p>
+  </section>
+
+  <ul class="link-list">
+    <li><span class="arrow">→</span><a href="/writing/">Recent writing</a></li>
+    <li><span class="arrow">→</span><a href="/about/">About</a></li>
+    <li><span class="arrow">→</span><a href="/now/">What I'm working on now</a></li>
+    <li><span class="arrow">→</span><a href="/principles/">What I believe</a></li>
+    <li>
+      <span class="arrow">→</span>
+      <a href={SOCIAL.hoopscollege} rel="noopener">Hoops College</a>
+    </li>
+    <li><span class="arrow">→</span><a href="/contact/">Contact</a></li>
+  </ul>
+
+  <h2 class="section-title">Recent writing</h2>
+  <ul class="post-list">
+    {
+      recent.map((post) => (
+        <li>
+          <a href={`/writing/${post.slug}/`}>{post.data.title}</a>
+          <span class="post-meta">{fmt(post.data.date)}</span>
+          <span class="post-desc">{post.data.description}</span>
+        </li>
+      ))
+    }
+  </ul>
+</BaseLayout>

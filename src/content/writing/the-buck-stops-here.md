@@ -1,0 +1,10 @@
+---
+title: "The Buck Stops Here"
+date: 2024-05-07
+description: "As a head coach and as a coaching staff, it is our responsibility to accept fault for every failure and give away the credit for every success. It is much..."
+featured: false
+---
+
+As a head coach and as a coaching staff, it is our responsibility to accept fault for every failure and give away the credit for every success. It is much easier to point fingers than it is to look in the mirror.  Players are not responsible for the schedule.  They are not responsible for recruiting their teammates.  They are not responsible for the practice plan.  They are not responsible for the organizational structure of the team.
+Our shoulders carry this burden and do everything in our power to set our team up for success.  It is not the team’s fault if we schedule a team that we aren’t capable of beating. It is not the team’s fault if we don’t recruit talented players into the program.  It is not the team’s fault if we don’t plan or execute a good practice. It is not their problem if they are allowed to consistently make the same mistakes.  Granted, there are a lot of things that are in the players’ control and outside of our control.  However, we can hold players accountable for those things and help them learn how to make good decisions on and off the court.
+I will never score a point or grab a rebound from the bench. I will never shut down the opponent’s leading scorer or rotate over and take a charge. However, I can surely make a bad substitution or call a time-out at the wrong time. I can definitely fail to change defenses or call a certain play.  I can certainly say the wrong things at halftime or recruit a bad apple that can spoil the team. I can choose to tolerate a lack of effort or execution.  I firmly believe players win games, and coaches lose games, not some of them — all of them.
