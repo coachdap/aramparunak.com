@@ -14,4 +14,4 @@ I don't mean we let them get in legal trouble.  But is failing a class or faili
 
 Failing whether it's in school, sports, or anything, isn't the end of the world.  In fact, it might be the beginning of the path to greatness. It doesn't mean they are a terrible person, student, or athlete.  It doesn't mean we don't love them.  In fact, it means we really love them, because we let them experience the reality of life.
 
-I'm not encouraging anyone to let your kids commit crimes. There's a difference in failing and breaking the rules. Failing is not mistreating others. Failing is not committing a crime. That's different.  Ask them what they want. Help them understand what it's going to take. And then let them fail or succeed when they try.
+I'm not encouraging anyone to let your kids commit crimes. There's a difference in failing and breaking the rules. Failing is not mistreating others. Failing is not committing a crime. That's different.  [Ask them what they want](/writing/what-is-important-to-you/). [Help them understand what it's going to take](/writing/dear-parent-of-a-prospective-college-basketball-player/). And then let them fail or succeed when they try.

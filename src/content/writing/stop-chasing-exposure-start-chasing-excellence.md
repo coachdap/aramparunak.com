@@ -46,7 +46,7 @@ When programs like NCAA schools evaluate prospects, they aren’t impressed by:
 
 They evaluate:
 
-- Can you make the right read?
+- Can you [make the right read](/writing/you-cant-yell-decision-making-into-existence/)?
 - Do you defend with discipline?
 - Can you make shots?
 - Do you compete?
@@ -66,7 +66,7 @@ The best players aren’t built on exposure tours.
 
 They’re built in empty gyms, day after day and rep after rep.
 
-Don't get it twisted.  I'm not saying looking good is bad.  I'm not saying you shouldn't have friends or fall in love. What I am saying, is that with every choice that you make to prioritize something that isn't your development, someone else is choosing differently. And the results will be different as well.
+Don't get it twisted.  I'm not saying looking good is bad.  I'm not saying you shouldn't have friends or fall in love. What I am saying, is that with every choice that you make to prioritize something that isn't your development, [someone else is choosing differently](/writing/improvement-is-only-the-beginning-for-basketball-players/). And the results will be different as well.
 
 None of those things are bad.  But when you're 17 or 18 and wondering why you aren't getting recruited, I don't want to have to remind you about all the times that you chose something else.
 
@@ -174,6 +174,6 @@ And ready for life beyond the game.
 
 Exposure is rented and in today's world at a very high price. Yes, it costs money, but it also takes a toll on the athlete both mentally and physically.
 
-Excellence is earned. It's called work.  It's called hours of loneliness. It's called the painful repetition to master the smallest details at game speed.
+Excellence is earned. It's called work.  It's called hours of loneliness. It's called the [painful repetition to master the smallest details at game speed](/writing/making-simple-things-difficult-the-hoops-college-way/).
 
 Stop Chasing Exposure. Start getting in the gym and Chasing Excellence.

@@ -4,17 +4,38 @@ import PostLayout from '../../layouts/PostLayout.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('writing');
+
+  // For each post, find up to 3 related posts that share at least one tag.
+  // Score by tag overlap; tiebreak by recency.
+  const related = (current: CollectionEntry<'writing'>) => {
+    const currentTags = new Set(current.data.tags);
+    return posts
+      .filter((p) => p.slug !== current.slug)
+      .map((p) => ({
+        post: p,
+        score: p.data.tags.filter((t) => currentTags.has(t)).length,
+      }))
+      .filter((x) => x.score > 0)
+      .sort((a, b) => {
+        if (b.score !== a.score) return b.score - a.score;
+        return b.post.data.date.valueOf() - a.post.data.date.valueOf();
+      })
+      .slice(0, 3)
+      .map((x) => x.post);
+  };
+
   return posts.map((post) => ({
     params: { slug: post.slug },
-    props: { post },
+    props: { post, related: related(post) },
   }));
 }
 
 interface Props {
   post: CollectionEntry<'writing'>;
+  related: CollectionEntry<'writing'>[];
 }
 
-const { post } = Astro.props;
+const { post, related } = Astro.props;
 const { Content } = await post.render();
 ---
 
@@ -23,6 +44,7 @@ const { Content } = await post.render();
   description={post.data.description}
   date={post.data.date}
   slug={post.slug}
+  related={related}
 >
   <Content />
 </PostLayout>

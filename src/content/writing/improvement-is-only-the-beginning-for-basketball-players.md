@@ -52,7 +52,7 @@ They ask themselves every day:
 - What haven’t I learned yet?
 - Who challenges me to be better today?
 
-Because each day you stop trying, someone else moves ahead. Complacency is the fastest way to fall behind.
+Because [each day you stop trying, someone else moves ahead](/writing/stop-chasing-exposure-start-chasing-excellence/). Complacency is the fastest way to fall behind.
 
 ---
 
@@ -68,7 +68,7 @@ The higher you rise, the harder it becomes to get even better. That’s not a li
 
 ## The Mindset That Separates the Best
 
-Standing still isn’t safe. It’s falling behind.
+[Standing still isn’t safe. It’s falling behind](/writing/the-worst-habit-anyone-can-have-what-is-your-standard/).
 
 We see it all the time: players who reach a milestone and stop pushing, thinking the hardest work is done. The difference between the best and the rest is this:
 

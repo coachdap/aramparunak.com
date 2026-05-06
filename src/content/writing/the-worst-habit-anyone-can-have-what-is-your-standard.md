@@ -32,7 +32,7 @@ If your standard depends on the environment, your growth will always be inconsis
 
 You have a standard, whether you mean to or not.  If you don't intentionally set your standard, then it will always change. A constantly changing standard won't get you very far.
 
-The best players aren’t just “working hard.” They know who they are. They’ve decided who they are going to be.  Nobody has to tell them what's "good".  They have intentionally set their standard and they aren't happy until they reach it.  Then they set their standard higher when they realize it's not high enough for what they want to become.  It's not a goal.  It's not a dream.  This is how they live their lives.  That’s not motivation — that’s identity.
+The best players aren’t just “working hard.” They know who they are. [They’ve decided who they are going to be](/writing/what-is-important-to-you/).  Nobody has to tell them what's "good".  They have intentionally set their standard and they aren't happy until they reach it.  Then they set their standard higher when they realize it's not high enough for what they want to become.  It's not a goal.  It's not a dream.  This is how they live their lives.  That’s not motivation — that’s identity.
 
 You may realize that your standards are too low because you're always falling short of what you want and you need to ask more of yourself.  Or maybe you improved and now your standard needs to improve too.  Is it possible for a standard to be too high?  I suppose so, but make your mistake in that direction as opposed to the other.  You'll be surprised what you can accomplish.
 
@@ -48,7 +48,7 @@ At some point:
 - A team that’s not serious
 - A workout where nobody’s holding you accountable
 
-We see it all the time. And we know what happens. Players get worse.  They build bad habits physically and mentally.  Their confidence suffers because they don't do as well as they hoped.  Parents begin to wonder why they are wasting their time and money. Players think "Basketball isn't in my genes. There's no way I can be good." Or it goes the other way. It's someone else's fault and that's never a good thing.
+We see it all the time. And we know what happens. Players get worse.  They build bad habits physically and mentally.  Their confidence suffers because they don't do as well as they hoped.  Parents begin to wonder why they are wasting their time and money. Players think "Basketball isn't in my genes. There's no way I can be good." Or it goes the other way. [It's someone else's fault and that's never a good thing](/writing/stop-blaming-the-system-and-start-working/).
 
 If you’ve never built your own internal standard, your level drops whether you realize it or not.
 

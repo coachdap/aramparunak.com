@@ -10,7 +10,7 @@ Someone asked me today if what we do is a scam. He was joking, then followed up 
 
 I get it. Youth sports has become a multi-billion dollar industry, and too much of it is exactly what people think it is - a money grab. Parents shell out thousands for programs that promise the world and deliver fancy uniforms and participation trophies.
 
-The truth is, we get lumped in with the real scammers because people have been burned. They've paid for training that was just glorified babysitting. They've signed up for programs that made their kids feel special without making them better. They've watched coaches collect checks while their players stagnated.
+The truth is, we get lumped in with the real scammers because people have been burned. They've paid for [training that was just glorified babysitting](/writing/stop-paying-for-basketball-that-doesnt-teach-basketball/). They've signed up for programs that made their kids feel special without making them better. They've watched coaches collect checks while their players stagnated.
 
 So when parents see another basketball program, their guard goes up. And it should.
 
@@ -32,9 +32,9 @@ This is why environment matters so much. You can't develop toughness in a soft e
 
 Look, physical activity and socialization are important. Kids need to move and interact with peers. But if that's all your basketball program offers, you're getting ripped off. You can get those benefits at the local rec center for a fraction of the cost.
 
-Real basketball training should teach players how to think the game. How to read defenses. How to make quick decisions under pressure. How to compete when things aren't going their way. How to get back up after getting knocked down.
+Real basketball training should teach players how to think the game. How to read defenses. How to [make quick decisions under pressure](/writing/you-cant-yell-decision-making-into-existence/). How to compete when things aren't going their way. How to get back up after getting knocked down.
 
-It's about learning that success comes from preparation, not luck. That improvement happens through repetition, not inspiration. That losing teaches you more than winning ever will.
+It's about learning that success comes from preparation, not luck. That improvement happens through repetition, not inspiration. That [losing teaches you more than winning ever will](/writing/let-them-fail/).
 
 The scam programs avoid this hard work. They focus on making parents feel good about their investment through flashy showcases and motivational speeches. They sell the sizzle instead of cooking the steak.
 

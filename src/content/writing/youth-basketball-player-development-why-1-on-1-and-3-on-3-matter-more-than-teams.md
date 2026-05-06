@@ -65,7 +65,7 @@ Coach won’t play me.
 
 My teammate can’t dribble.
 
-If nothing else, the referees were bad.
+[If nothing else, the referees were bad](/writing/stop-blaming-the-system-and-start-working/).
 
 That safety net might feel good but it also **delays growth**.
 
@@ -93,7 +93,7 @@ This is why some kids look great in drills and disappear in games.
 
 **3-on-3 Teaches the Game Inside the Game**
 
-If 1-on-1 is about survival, 3-on-3 is about understanding.
+If 1-on-1 is about survival, [3-on-3 is about understanding](/writing/kids-should-play-3-on-3/).
 
 It forces players to:
 
@@ -125,7 +125,7 @@ They:
 - Panic when pressured
 - Default to moving the ball instead of creating
 
-From the stands, it looks like unselfishness.
+From the stands, [it looks like unselfishness](/writing/basketball-playmaking-development-dont-play-for-yourself-is-the-wrong-answer/).
 
 In reality, it’s uncertainty.
 

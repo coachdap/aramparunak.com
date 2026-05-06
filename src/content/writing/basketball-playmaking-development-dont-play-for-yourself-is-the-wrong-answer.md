@@ -126,7 +126,7 @@ They’ve learned the safest way to survive is to **not be the one who tries**.
 
 This problem isn’t just tactical — it’s emotional.
 
-Many players aren’t playing basketball because they chose it.
+Many players aren’t [playing basketball because they chose it](/writing/what-is-important-to-you/).
 
 They’re playing because:
 
@@ -184,7 +184,7 @@ Those questions force players to connect:
 
 **training → decision → outcome**
 
-That’s how basketball IQ actually improves.
+That’s how [basketball IQ actually improves](/writing/you-cant-yell-decision-making-into-existence/).
 
 ---
 
@@ -196,7 +196,7 @@ Every great playmaker went through a phase of:
 - Missing reads
 - Making visible mistakes
 
-That phase wasn’t selfish — it was **necessary**.
+That phase wasn’t selfish — [it was **necessary**](/writing/let-them-fail/).
 
 They learned:
 

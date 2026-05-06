@@ -22,7 +22,7 @@ Besides the issues described in the article above, there are so many other issue
 
 In other words, did every single player have countless chances to experience success and failure so that they could learn to repeat the good things and overcome that adversity and do better next time? Or did they get taken out and not get congratulated or corrected about anything that just happened. They just think they missed a shot or threw a bad pass and so now they play scared all the time. This could be one blog post by itself.
 
-5. **It takes too much time.** Five or six games in a weekend. Multiple hours in the car going to and from tournaments and games. Whole weeks and weekends are taken to play in these meaningless tournaments. Kids on AAU teams have tougher schedules than a lot of NBA teams with all that they are asked to do. And they don't have private chefs and chartered planes or the best round-the-clock healthcare.
+5. **It takes too much time.** Five or six games in a weekend. [Multiple hours in the car going to and from tournaments and games](/writing/is-youth-basketball-developing-your-child/). Whole weeks and weekends are taken to play in these meaningless tournaments. Kids on AAU teams have tougher schedules than a lot of NBA teams with all that they are asked to do. And they don't have private chefs and chartered planes or the best round-the-clock healthcare.
 
 6. **Kids rely too much on their coaches**. 5 on 5 games make players think that their coach is too important. They think they aren't really getting better if there isn't a coach around. There's nothing better than players learning to coach each other. Doesn't it mean it's right all the time? Of course, it isn't. But from what I can tell, these "coaches" aren't much better.
 
@@ -34,9 +34,9 @@ Now back to the original point. Why is having less players on the court importan
 
 2. **You're going to get to defend the ball.** One of the hardest things to do in basketball is defending the player with the ball. If you never get to do it, you never get better at it. Playing 3 on 3 means two things. You can't really play zone which means everyone has to defend someone. Since everyone gets to touch the ball in 3 on 3, everyone is going to have the opportunity to defend the ball.
 
-These two points can be summarized in one. **In 3 on 3, you can't hide**. You're always involved in what goes on which gives you numerous chances to experience success or learn from failure. This is development at its best.
+These two points can be summarized in one. **In 3 on 3, [you can't hide](/writing/youth-basketball-player-development-why-1-on-1-and-3-on-3-matter-more-than-teams/)**. You're always involved in what goes on which gives you numerous chances to experience success or learn from failure. This is development at its best.
 
-3. **Playing 3 on 3 simplifies decision-making**. How many of us look at a restaurant menu and struggle to make a decision and ask the server to give us more time? How many of us are faced with life decisions that we struggle with?
+3. **Playing 3 on 3 [simplifies decision-making](/writing/you-cant-yell-decision-making-into-existence/)**. How many of us look at a restaurant menu and struggle to make a decision and ask the server to give us more time? How many of us are faced with life decisions that we struggle with?
 
 Let's imagine being a 10-year-old kid with everybody watching. Another kid is all up in our space and is trying to take the ball from us. Fans are yelling and cheering. Coach is yelling at us. And there 4 other teammates I can throw it to, or I can dribble or shoot it myself. Not to mention there are the other people playing defense and the clock and the score and remembering the play and is anybody overwhelmed yet?
 

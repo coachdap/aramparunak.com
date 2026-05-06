@@ -14,7 +14,7 @@ I know that sounds backward. Most people want to make things easier, not harder.
 
 Walk into any gym in America and you'll see the same thing. Players doing drills that look impressive but don't actually make them better. Fancy dribble combinations. Complicated footwork sequences with no real purpose. Advanced moves that they can barely execute in a controlled drill, let alone in a game.
 
-Meanwhile, they can't make a simple layup with their weak hand. They can't catch and shoot in rhythm. They can't stop efficiently. The basics are missing, but everyone's chasing the flashy stuff because it looks cool on social media.
+Meanwhile, [they can't make a simple layup with their weak hand](/writing/stop-paying-for-basketball-that-doesnt-teach-basketball/). They can't catch and shoot in rhythm. They can't stop efficiently. The basics are missing, but [everyone's chasing the flashy stuff because it looks cool on social media](/writing/stop-chasing-exposure-start-chasing-excellence/).
 
 **The Hoops College Way Philosophy**
 
@@ -54,7 +54,7 @@ Until players have absolutely mastered the basics, they can't be held accountabl
 
 **The Uncomfortable Truth**
 
-Most players don't want to do this. They want the quick fix. They want the secret move. They want to skip the boring fundamental work and get to the cool stuff.
+Most players don't want to do this. [They want the quick fix](/writing/you-can-have-my-job/). They want the secret move. They want to skip the boring fundamental work and get to the cool stuff.
 
 Most coaches and trainers won't do this either. It's hard to sell. It's not flashy. It doesn't make for great highlight videos. It requires knowledge, patience, and the willingness to hold players to uncomfortable standards.
 

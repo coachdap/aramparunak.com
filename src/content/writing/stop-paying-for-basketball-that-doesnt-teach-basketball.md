@@ -65,10 +65,10 @@ You still have to learn how to play.
 
 And if you’re not asking the right questions, you’re going to keep getting the wrong results:
 
-- Is my child actually improving at the basic level? Kobe said it: *Master the basics.* It really is that simple.
+- Is my child actually improving at the basic level? Kobe said it: *[Master the basics](/writing/making-simple-things-difficult-the-hoops-college-way/).* It really is that simple.
 - Can they catch, pivot, pass, and dribble with control?
 - Are they more comfortable under pressure now than they were three months ago?
-- Or are they just busier?
+- Or are they [just busier](/writing/is-youth-basketball-developing-your-child/)?
 
 Because busy is not the same as better.
 
@@ -78,7 +78,7 @@ Because busy is not the same as better.
 
 Environment matters.
 
-If your child is in a gym that skips the basics, they’re going to skip them too. If they’re on a team that values playing time, exposure, or winning tournaments over teaching, they’re going to chase the wrong things.
+If your child is in a gym that skips the basics, they’re going to skip them too. If they’re on a team that values playing time, exposure, or winning tournaments over teaching, [they’re going to chase the wrong things](/writing/stop-chasing-exposure-start-chasing-excellence/).
 
 And kids will go along with it. Of course they will. They trust the adults in the room. That includes you.
 

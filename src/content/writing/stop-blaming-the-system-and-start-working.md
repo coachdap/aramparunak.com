@@ -14,7 +14,7 @@ Blah, blah, blah.
 
 You know what? All of those things might be true. But complaining about them won't make your kid a better player.
 
-The truth is, none of those things are the real problem. The real problem is that too many people believe the marketing and the hype. There's a massive lack of honest evaluation and sacrifice. Players aren't willing to do what it takes to be undeniable.
+The truth is, none of those things are the real problem. The real problem is that too many people believe the marketing and the hype. There's a massive lack of honest evaluation and sacrifice. Players aren't willing to do what it takes to be [undeniable](/writing/stop-chasing-exposure-start-chasing-excellence/).
 
 Here's the deal: If you're undeniable, you benefit from the system. If you're not, the system will benefit off of you.
 
@@ -36,9 +36,9 @@ They don't need perfect conditions to improve. They improve in spite of imperfec
 
 Let's be honest about what's really happening here. Most families are buying hope instead of developing players. They're paying for the feeling that they're doing something, not actually doing the something that matters.
 
-You can spend $10,000 on tournaments and camps, but if your kid can't make a layup under pressure, you've wasted your money. You can hire the best trainer in the city, but if your kid won't work on their weaknesses at home, nothing will change.
+You can spend $10,000 on tournaments and camps, but [if your kid can't make a layup under pressure](/writing/stop-paying-for-basketball-that-doesnt-teach-basketball/), you've wasted your money. You can hire the best trainer in the city, but if your kid won't work on their weaknesses at home, nothing will change.
 
-Environment matters, but not the way most people think. The environment that matters isn't the fancy facility or the big tournament. It's the daily environment you create around accountability and honest feedback.
+Environment matters, but not the way most people think. The environment that matters isn't the fancy facility or the big tournament. It's the [daily environment you create around accountability and honest feedback](/writing/the-worst-habit-anyone-can-have-what-is-your-standard/).
 
 Thank goodness we live in America where we get to choose. We can choose to complain, but that isn't going to do any good. You can choose to do what it takes to be able to take advantage of the system, or choose to not participate.
 

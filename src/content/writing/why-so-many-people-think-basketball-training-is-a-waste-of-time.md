@@ -76,11 +76,11 @@ Many camps and clinics are run by people who:
 - But don’t understand long-term player development
 - Or can’t connect drills to real-game performance
 
-Being a good player doesn’t automatically make someone a good coach. Without proper instruction, players often leave with:
+[Being a good player doesn’t automatically make someone a good coach](/writing/the-lack-of-fundamental-development/). Without proper instruction, players often leave with:
 
 - Moves without context
 - Footwork without reads
-- Skills that don’t survive pressure
+- [Skills that don’t survive pressure](/writing/making-simple-things-difficult-the-hoops-college-way/)
 
 At best, kids get conditioning. At worst, they waste hours without developing meaningful skills.
 

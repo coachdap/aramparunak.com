@@ -2,15 +2,17 @@
 // Single blog post layout.
 import BaseLayout from './BaseLayout.astro';
 import { SITE } from '../consts';
+import type { CollectionEntry } from 'astro:content';
 
 interface Props {
   title: string;
   description: string;
   date: Date;
   slug: string;
+  related?: CollectionEntry<'writing'>[];
 }
 
-const { title, description, date, slug } = Astro.props;
+const { title, description, date, slug, related = [] } = Astro.props;
 
 const formattedDate = date.toLocaleDateString('en-US', {
   year: 'numeric',
@@ -52,6 +54,20 @@ const jsonLd = {
     <div class="post-body">
       <slot />
     </div>
+    {
+      related.length > 0 && (
+        <aside class="related-posts" aria-label="Related posts">
+          <h2>Related</h2>
+          <ul>
+            {related.map((p) => (
+              <li>
+                <a href={`/writing/${p.slug}/`}>{p.data.title}</a>
+              </li>
+            ))}
+          </ul>
+        </aside>
+      )
+    }
     <a class="back-link" href="/writing/">← Back to writing</a>
   </article>
 </BaseLayout>
