@@ -3,6 +3,7 @@ title: "Why So Many People Think Basketball Training Is a Waste of Time"
 date: 2026-01-24
 description: "There’s a common belief in basketball: players just need game reps. Or worse, that basketball training is a waste of time."
 featured: false
+tags: ["On teaching"]
 ---
 
 There’s a common belief in basketball: **players just need game reps**. Or worse, that **basketball training is a waste of time**.

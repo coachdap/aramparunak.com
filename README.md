@@ -65,13 +65,28 @@ wrangler.toml              Cloudflare Pages config
    title: The real problem with youth basketball
    date: 2026-04-12
    description: One-line summary used in meta tags and on the archive page.
-   featured: true   # optional, defaults to false
+   featured: true              # optional, defaults to false
+   tags: ["On the work"]       # optional; one tag is fine, array allows multiple
    ---
    ```
 
 3. Write the post in plain Markdown. Headings (`##`, `###`), lists, blockquotes, fenced code blocks, images, and links all work.
 
 4. Mark up to 5 posts `featured: true` to surface them in the **Start here** section on `/writing`. The rest fall into the year-grouped archive automatically.
+
+5. Tag each post with one of the existing sections so it groups cleanly. Current sections (and what they're about):
+
+   - **On the work** — greatness, effort, refusing shortcuts, doing it daily
+   - **On teaching** — how skill is built, decision-making, progression
+   - **On parents** — what families do right and wrong
+   - **On honesty** — truth-telling, no marketing veneer
+   - **On leadership** — owning failures, accountability
+   - **On building** — making your own thing, betting on yourself
+   - **On faith** *(empty — for future posts)*
+   - **On family** *(empty — yours, not other people's)*
+   - **On the early years** *(empty — West Jefferson, the misdiagnosis, identity)*
+
+   To introduce a new section, just start using a new tag — there's no central registry.
 
 The dev server hot-reloads on save. The build will fail loudly if a post is missing a required frontmatter field.
 

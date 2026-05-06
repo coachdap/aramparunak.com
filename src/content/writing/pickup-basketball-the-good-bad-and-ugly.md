@@ -3,6 +3,7 @@ title: "Pickup Basketball: The Good, Bad, and Ugly"
 date: 2021-10-24
 description: "Pickup basketball is the most popular way that basketball is played. Millions of people around the world play pickup daily. It's where many find their 'love'..."
 featured: false
+tags: ["On the work"]
 ---
 
 Pickup basketball is the most popular way that basketball is played. Millions of people around the world play pickup daily. It's where many find their "love" for the game. Pickup is completely random. There are no coaches. Every court has different rules. The teams are always changing. The only thing that's consistent about pickup basketball is that it's always changing. When players play in pickup games against good competition, it gives them a great opportunity to develop and improve. The problem is that as good as one pickup game can be, the next can be really bad. It all depends.

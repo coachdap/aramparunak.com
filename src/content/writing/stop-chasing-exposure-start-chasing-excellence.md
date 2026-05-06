@@ -3,6 +3,7 @@ title: "Stop Chasing Exposure. Start Chasing Excellence."
 date: 2026-02-23
 description: "In youth basketball, the chase for exposure has become louder than the pursuit of excellence. Scroll social media and you’ll see commitment edits, circuit..."
 featured: true
+tags: ["On the work"]
 ---
 
 In youth basketball, the chase for exposure has become louder than the pursuit of excellence. Scroll social media and you’ll see commitment edits, circuit announcements, rankings graphics, and “Blessed to receive an offer…” posts that may or may not be accurate. You'll see highlights galore but that doesn't make you recruitable.  Everyone wants to shine, but who is doing the work?

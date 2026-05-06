@@ -3,6 +3,7 @@ title: "Stop Paying for Basketball That Doesn’t Teach Basketball"
 date: 2026-03-28
 description: "The truth is, a lot of youth basketball right now is built on a lie."
 featured: false
+tags: ["On parents"]
 ---
 
 The truth is, a lot of youth basketball right now is built on a lie.

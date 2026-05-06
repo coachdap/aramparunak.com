@@ -3,6 +3,7 @@ title: "Making Simple Things Difficult: The Hoops College Way"
 date: 2025-12-30
 description: "This is the Hoops College Way. We've mastered something that most trainers and coaches don’t. We've figured out how to make the most simple and basic skills..."
 featured: true
+tags: ["On the work"]
 ---
 
 This is the Hoops College Way. We've mastered something that most trainers and coaches don’t. We've figured out how to make the most simple and basic skills difficult in order to help players truly master them.

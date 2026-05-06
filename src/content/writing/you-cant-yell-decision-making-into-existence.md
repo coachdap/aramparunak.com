@@ -3,6 +3,7 @@ title: "You Can't Yell Decision-Making Into Existence"
 date: 2026-04-24
 description: "The timeout buzzer sounds. Coach storms onto the court, veins bulging. 'What were you thinking out there? That was a terrible decision!'"
 featured: false
+tags: ["On teaching"]
 ---
 
 The timeout buzzer sounds. Coach storms onto the court, veins bulging. "What were you thinking out there? That was a terrible decision!"

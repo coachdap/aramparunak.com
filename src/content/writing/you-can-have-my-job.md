@@ -3,6 +3,7 @@ title: "You Can Have My Job"
 date: 2021-10-01
 description: "You can have my job. But the truth is you don't really want it that bad.  It sure looks nice.  It sure sounds nice. But you want the shortcut.  You want me to..."
 featured: false
+tags: ["On building"]
 ---
 
 You can have my job. But the truth is you don't really want it that bad.  It sure looks nice.  It sure sounds nice. But you want the shortcut.  You want me to give it to you.

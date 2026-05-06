@@ -3,6 +3,7 @@ title: "The Lack of Fundamental Development"
 date: 2022-11-01
 description: "The lack of fundamental development in youth basketball is alarming. Over the last few months, I've watched more bad basketball than I ever care to watch."
 featured: false
+tags: ["On teaching"]
 ---
 
 The lack of fundamental development in youth basketball is alarming. Over the last few months, I've watched more bad basketball than I ever care to watch.

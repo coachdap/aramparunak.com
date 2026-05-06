@@ -3,6 +3,7 @@ title: "Stop Blaming the System and Start Working"
 date: 2026-04-23
 description: "I'm tired of hearing people complain about youth basketball."
 featured: false
+tags: ["On the work"]
 ---
 
 I'm tired of hearing people complain about youth basketball.

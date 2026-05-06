@@ -3,6 +3,7 @@ title: "Are Basketball Training Programs a Scam? Let's Be Honest About Youth Spo
 date: 2026-04-22
 description: "Someone asked me today if what we do is a scam. He was joking, then followed up with 'I love a good scam.' But let's be honest - plenty of people think that..."
 featured: true
+tags: ["On honesty"]
 ---
 
 Someone asked me today if what we do is a scam. He was joking, then followed up with "I love a good scam." But let's be honest - plenty of people think that about basketball training programs, and they aren't joking.

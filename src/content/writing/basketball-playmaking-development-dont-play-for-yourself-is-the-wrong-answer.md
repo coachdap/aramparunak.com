@@ -3,6 +3,7 @@ title: "Basketball Playmaking Development: 'Don't Play For Yourself' is the Wron
 date: 2026-01-26
 description: "There’s a contradiction in basketball playmaking development that shows up everywhere."
 featured: false
+tags: ["On teaching"]
 ---
 
 There’s a contradiction in basketball playmaking development that shows up everywhere.

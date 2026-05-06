@@ -3,6 +3,7 @@ title: "What is Important to You?"
 date: 2021-05-28
 description: "What is important to you?"
 featured: false
+tags: ["On honesty"]
 ---
 
 What is important to you?

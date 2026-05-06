@@ -3,6 +3,7 @@ title: "The Buck Stops Here"
 date: 2024-05-07
 description: "As a head coach and as a coaching staff, it is our responsibility to accept fault for every failure and give away the credit for every success. It is much..."
 featured: false
+tags: ["On leadership"]
 ---
 
 As a head coach and as a coaching staff, it is our responsibility to accept fault for every failure and give away the credit for every success. It is much easier to point fingers than it is to look in the mirror.  Players are not responsible for the schedule.  They are not responsible for recruiting their teammates.  They are not responsible for the practice plan.  They are not responsible for the organizational structure of the team.

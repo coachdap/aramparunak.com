@@ -3,6 +3,7 @@ title: "Improvement Is Only the Beginning for Basketball Players"
 date: 2026-02-17
 description: "Progress feels amazing. You see the results, hear the praise, and feel like all your hard work is paying off. It’s natural to think, “I’ve arrived.”"
 featured: false
+tags: ["On the work"]
 ---
 
 ## You’ve Improved — Now What?

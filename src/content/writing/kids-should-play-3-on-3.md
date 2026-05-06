@@ -3,6 +3,7 @@ title: "Kids Should Play 3 on 3"
 date: 2021-06-18
 description: "Kids should play 3 on 3 basketball simply because there are fewer players on the court. Your next statement might accuse me of being Captain Obvious in the..."
 featured: false
+tags: ["On teaching"]
 ---
 
 Kids should play 3 on 3 basketball simply because there are fewer players on the court. Your next statement might accuse me of being Captain Obvious in the Hotels.com commercial. Of course, there are fewer players, but that doesn't tell me WHY kids should play [3 on 3](https://hoopscollege.com/2021-hoops-college-summer-3-on-3-basketball-league/) instead of 5 on 5. After all, basketball is a 5 on 5 game right?

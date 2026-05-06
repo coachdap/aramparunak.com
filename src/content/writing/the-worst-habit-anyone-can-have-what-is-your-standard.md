@@ -3,6 +3,7 @@ title: "The Worst Habit Anyone Can Have: What is Your Standard?"
 date: 2026-03-23
 description: "Letting someone else set your standard is probably the worst habit anyone can have."
 featured: false
+tags: ["On the work"]
 ---
 
 Letting someone else set your standard is probably the worst habit anyone can have.
