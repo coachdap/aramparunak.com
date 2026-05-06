@@ -1,0 +1,27 @@
+# Cloudflare Pages redirect rules.
+# Format: <source-path>  <destination>  <status>
+#
+# 301s for the 7 tactical posts that were trimmed from this site
+# and live on hoopscollege.com instead. Adjust the destination URLs
+# if hoopscollege.com uses a different path pattern (e.g. /blog/<slug>/).
+
+/writing/d2-schools-can-give-full-scholarships-even-to-out-of-state-kids/                       https://hoopscollege.com/d2-schools-can-give-full-scholarships-even-to-out-of-state-kids/                       301
+/writing/d2-schools-can-give-full-scholarships-even-to-out-of-state-kids                        https://hoopscollege.com/d2-schools-can-give-full-scholarships-even-to-out-of-state-kids/                       301
+
+/writing/evaluate-your-aau-program/                                                             https://hoopscollege.com/evaluate-your-aau-program/                                                             301
+/writing/evaluate-your-aau-program                                                              https://hoopscollege.com/evaluate-your-aau-program/                                                             301
+
+/writing/reclassification-the-good-the-bad-and-the-ugly/                                        https://hoopscollege.com/reclassification-the-good-the-bad-and-the-ugly/                                        301
+/writing/reclassification-the-good-the-bad-and-the-ugly                                         https://hoopscollege.com/reclassification-the-good-the-bad-and-the-ugly/                                        301
+
+/writing/thats-not-basketball/                                                                  https://hoopscollege.com/thats-not-basketball/                                                                  301
+/writing/thats-not-basketball                                                                   https://hoopscollege.com/thats-not-basketball/                                                                  301
+
+/writing/the-narrative-about-aau/                                                               https://hoopscollege.com/the-narrative-about-aau/                                                               301
+/writing/the-narrative-about-aau                                                                https://hoopscollege.com/the-narrative-about-aau/                                                                301
+
+/writing/the-transfer-portal-changed-everything-and-high-school-players-still-dont-know-it/     https://hoopscollege.com/the-transfer-portal-changed-everything-and-high-school-players-still-dont-know-it/     301
+/writing/the-transfer-portal-changed-everything-and-high-school-players-still-dont-know-it      https://hoopscollege.com/the-transfer-portal-changed-everything-and-high-school-players-still-dont-know-it/     301
+
+/writing/when-you-tweet-your-camp-invitation/                                                   https://hoopscollege.com/when-you-tweet-your-camp-invitation/                                                   301
+/writing/when-you-tweet-your-camp-invitation                                                    https://hoopscollege.com/when-you-tweet-your-camp-invitation/                                                   301
