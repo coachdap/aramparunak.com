@@ -16,7 +16,7 @@ Many consider pickup "work". It's when they "work" on their game. That brings up
 4. Who are you working on it with?  
 5. Who are you working on it against?
 
-When I'm [evaluating an AAU program](https://hoopscollege.com/evaluate-your-aau-program/), one of the things that I want to do is watch a practice. This is true for high school too. I think many players have been conditioned to think that "work" is playing 5 on 5. Don't get me wrong, being able to play in that setting is super important. Success in the game is being able to play 5 on 5 at the highest level. The problem is that so many players don't do anything else.
+When I'm [evaluating an AAU program](https://www.hoopscollege.com/evaluate-your-aau-program/), one of the things that I want to do is watch a practice. This is true for high school too. I think many players have been conditioned to think that "work" is playing 5 on 5. Don't get me wrong, being able to play in that setting is super important. Success in the game is being able to play 5 on 5 at the highest level. The problem is that so many players don't do anything else.
 
 So here's what happens in a lot of situations, they only play in pickup games where they are comfortable. Maybe they are the best player and maybe they aren't. But they don't really put themselves in situations where they are completely uncomfortable. They don't play in such a way where they are truly working on their game.
 

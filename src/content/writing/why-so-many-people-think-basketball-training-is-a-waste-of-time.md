@@ -8,7 +8,7 @@ tags: ["On teaching"]
 
 There’s a common belief in basketball: **players just need game reps**. Or worse, that **basketball training is a waste of time**.
 
-[Read the last post](https://www.hoopscollege.com/youth-basketball-player-development-why-1-on-1-and-3-on-3-matter-more-than-teams) if you want to know why game reps aren’t always the answer.
+[Read the last post](/writing/youth-basketball-player-development-why-1-on-1-and-3-on-3-matter-more-than-teams/) if you want to know why game reps aren’t always the answer.
 
 Parents invest heavily: thousands of dollars on camps, private sessions, and year-round gym time. Players put in hours every week running drills and chasing repetitions.
 
@@ -245,4 +245,4 @@ At **Hoops College**, we build the **in-between environment**:
 - Every rep holding players accountable
 - Skills that **transfer to games**
 
-Give your player the edge they deserve — [**join Hoops College today**.](https://www.hoopscollege.com/small-group-training)
+Give your player the edge they deserve — [**join Hoops College today**.](https://www.hoopscollege.com/small-group-training/)
