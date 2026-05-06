@@ -1,7 +1,7 @@
 ---
 title: "Kids Should Play 3 on 3"
 date: 2021-06-18
-description: "Kids should play 3 on 3 basketball simply because there are fewer players on the court. Your next statement might accuse me of being Captain Obvious in the..."
+description: "Fewer players means more touches, more decisions, no hiding. 5-on-5 reveals players. 3-on-3 develops them."
 featured: false
 tags: ["On teaching"]
 ---

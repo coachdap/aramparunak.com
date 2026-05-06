@@ -1,7 +1,7 @@
 ---
 title: "Let Them Fail"
 date: 2022-04-25
-description: "Why don't we let them fail?  Why do we pretend that our kids aren't human?  Why do we try to protect them from the struggle? The truth is we all fail, we all..."
+description: "Failure teaches things success can't. The instinct to protect kids from struggle is the same one that keeps them from getting good."
 featured: false
 tags: ["On the work"]
 ---

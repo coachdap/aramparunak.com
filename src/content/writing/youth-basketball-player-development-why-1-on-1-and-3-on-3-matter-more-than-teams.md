@@ -1,7 +1,7 @@
 ---
 title: "Youth Basketball Player Development: Why 1-on-1 and 3-on-3 Matter More Than Teams"
 date: 2026-01-24
-description: "When it comes to Youth Basketball Player Development, 1-on-1 and 3-on-3 Matter More Than Teams."
+description: "Teams reveal players. Small games develop them. Most kids skip the develop phase and go straight to the reveal."
 featured: false
 tags: ["On teaching"]
 ---

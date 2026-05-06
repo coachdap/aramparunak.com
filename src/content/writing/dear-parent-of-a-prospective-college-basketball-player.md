@@ -1,7 +1,7 @@
 ---
 title: "Dear Parent of a Prospective College Basketball Player"
 date: 2023-03-22
-description: "Parent of a Prospective College Basketball Player,"
+description: "An honest letter to parents about what college basketball actually requires — and what most kids and families won't do."
 featured: false
 tags: ["On the work"]
 ---

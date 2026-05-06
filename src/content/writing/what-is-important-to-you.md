@@ -1,7 +1,7 @@
 ---
 title: "What is Important to You?"
 date: 2021-05-28
-description: "What is important to you?"
+description: "Most people can't answer this honestly. The ones who can are the ones who get somewhere."
 featured: false
 tags: ["On honesty"]
 ---

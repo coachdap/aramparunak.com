@@ -1,7 +1,7 @@
 ---
 title: "Are Basketball Training Programs a Scam? Let's Be Honest About Youth Sports"
 date: 2026-04-22
-description: "Someone asked me today if what we do is a scam. He was joking, then followed up with 'I love a good scam.' But let's be honest - plenty of people think that..."
+description: "Most of what gets sold to families is a substitute for the work. None of it works. How to tell real training from the rest."
 featured: true
 tags: ["On honesty"]
 ---

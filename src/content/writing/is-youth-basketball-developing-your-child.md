@@ -1,7 +1,7 @@
 ---
 title: "Is Youth Basketball Development Actually Helping Your Child — Or Just Keeping Them Busy?"
 date: 2026-04-12
-description: "Let me be real with you for a minute — not as a marketer, not as someone trying to sell you something, but as someone who has spent years in gyms, on..."
+description: "Tournaments and busy schedules feel like development. They aren't. The difference between activity and getting better."
 featured: true
 tags: ["On parents"]
 ---
