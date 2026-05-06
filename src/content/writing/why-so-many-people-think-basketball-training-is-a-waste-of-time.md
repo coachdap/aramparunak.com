@@ -145,6 +145,7 @@ For average players, heavy private training removes:
 - Less motivation to figure out how to improve under pressure
 
 Everything in 1-on-1 feels productive and safe.
+
 But **games aren’t safe**, and that’s where middle players truly grow.
 
 **What Most Players Actually Need**

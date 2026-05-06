@@ -15,6 +15,7 @@ This sounds harsh, but it’s necessary.
 They are in a different *stage* of development. And that's ok. But we have too many people skipping steps and wondering why they don't get better results.
 
 Team basketball is not where players **learn how to compete**.
+
 It’s where competition **decides who plays the most and who plays the best.**
 
 **The Assumption Teams Make (But Never Say Out Loud)**
@@ -35,12 +36,15 @@ It assumes they can:
 - Know how to adjust when the play doesn’t workout.
 
 Those are not “advanced” skills.
+
 They are entry-level requirements.
 
 When a player doesn’t have them, the team doesn’t stop. It adapts *around* them.
 
 They get moved to the end of the bench
+
 They aren’t coach’s favorite anymore.
+
 They get labeled as “role players” before they’ve ever been developed.
 
 **Why Teams Feel Safe (And Why That’s a Problem)**
@@ -56,18 +60,23 @@ There are:
 If something goes wrong, it’s shared.
 
 They wouldn’t pass me the ball.
+
 Coach won’t play me.
+
 My teammate can’t dribble.
+
 If nothing else, the referees were bad.
 
 That safety net might feel good but it also **delays growth**.
 
 Confidence doesn’t come from being protected.
+
 It comes from surviving pressure repeatedly.
 
 **1-on-1 Is Where Confidence Is Built, Not Tested**
 
 Confidence is not a mindset.
+
 It’s evidence.
 
 1-on-1 gives players that evidence.
@@ -93,12 +102,15 @@ It forces players to:
 - Live with the outcome
 
 There is no coach calling plays every possession.
+
 There is no weak-side defender hiding mistakes.
 
 Every decision has an immediate consequence.
 
 Players start to understand *why* spacing matters.
+
 *Why* help defense exists.
+
 *Why* attacking at the right moment changes everything.
 
 That understanding doesn’t come from diagrams. It comes from repetition under pressure.
@@ -136,6 +148,7 @@ They learn:
 These habits are hard to break later — especially when the game speeds up and competition increases.
 
 By high school, the margin for development shrinks.
+
 By college, it’s almost gone.
 
 **“But They Love Being on a Team”**
@@ -154,6 +167,7 @@ None of those things equal development.
 Enjoyment matters — but enjoyment without challenge produces stagnation.And development can be fun if it's done right way. When a player sees themselves get better, they have a lot of funu.
 
 The goal isn’t to remove team basketball forever.
+
 It’s to **earn it and know you've earned it.**
 
 **When Team Basketball Finally Works**
@@ -167,7 +181,9 @@ Teams become powerful tools *after* a player:
 At that point, team concepts make sense.
 
 Plays work because players can execute them.
+
 Roles exist because players can fill them.
+
 Winning becomes possible because everyone can be trusted.
 
 **The Correct Order of Development**
@@ -175,7 +191,9 @@ Winning becomes possible because everyone can be trusted.
 Basketball development isn’t complicated — it’s just often ignored.
 
 1-on-1 builds courage and skill.
+
 3-on-3 builds understanding and decision-making.
+
 5-on-5 builds execution and chemistry.
 
 Reverse that order, and the game feels chaotic and overwhelming.

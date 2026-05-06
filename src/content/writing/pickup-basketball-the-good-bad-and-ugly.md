@@ -27,12 +27,15 @@ In so many cases, a pickup game is a place where bad habits are reinforced. Ther
 In those situations, nobody is getting better. Is it fun? I guess that's up to the individual. But seriously, if you're calling pickup "work" but the games aren't competitive or played at a high intensity, then you're kidding yourself.
 
 1. Do you know what you really need to work on?  
+
 This all comes back to the evaluation. Can you evaluate yourself? Do you know someone who can help you with that? Do you have a film of yourself? Do you watch it? Do you know how to watch it? Do you know what to look for? Do you know how strong your strengths are?
 
 2. Do you know how you need to work on it?  
+
 That last question came with a ton of questions. This one gets really tricky when it comes to pickup. Knowing what you need to do to work on something might require some help from a coach. Are you working on it in the right way or are you building bad habits that are going to be harder to break later?
 
 3. What are you working on when you play?  
+
 This has to do with you making the conscious decision to actually work on whatever you identify. Win or lose. Good or bad. You must make the conscious decision to actually work on it.
 
 As we talked about before, pickup is a really unpredictable environment. Some things are really hard to work on in a pickup game because you might not be able to work on it without your teammates.

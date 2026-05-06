@@ -75,4 +75,5 @@ We see it all the time: players who reach a milestone and stop pushing, thinking
 > “I’ve improved, but I’m never finished. There’s always more to learn, more to push, more to climb.”
 
 Stay curious. Stay disciplined. Keep moving.  
+
 Improvement is only the beginning. The climb is hard—but the view from the top is worth it.

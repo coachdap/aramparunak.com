@@ -7,11 +7,17 @@ tags: ["On teaching"]
 ---
 
 There’s a contradiction in basketball playmaking development that shows up everywhere.
+
 We criticize players for being selfish.
+
 We complain about kids “playing for themselves.”
+
 We preach ball movement and team offense.
+
 We tell players to “make the right play.”
+
 At the same time, we discourage players from ever trying to make a play.
+
 Then we wonder why no one creates.
 
 ---
@@ -19,7 +25,9 @@ Then we wonder why no one creates.
 ## Why “Don’t Play for Yourself” Hurts Basketball Player Development
 
 “You’re playing for yourself.”
+
 It’s usually said with good intentions. Coaches want structure. Parents want unselfish basketball. Everyone wants the offense to look organized.
+
 But what players hear is:
 
 - Don’t take risks
@@ -27,6 +35,7 @@ But what players hear is:
 - Don’t take responsibility
 
 Over time, this doesn’t produce team-first players.
+
 It produces **passive players** — which stalls basketball playmaking development.
 
 ---
@@ -34,6 +43,7 @@ It produces **passive players** — which stalls basketball playmaking developme
 ## Basketball Playmaking Starts With Being a Threat
 
 Basketball is an advantage-based sport.
+
 Advantage only exists when someone is willing to:
 
 - Attack a defender
@@ -41,8 +51,11 @@ Advantage only exists when someone is willing to:
 - Put pressure on the defense
 
 Passing alone doesn’t create advantage.
+
 Ball movement alone doesn’t create advantage.
+
 **Pressure does.**
+
 When players aren’t allowed to create for themselves, they stop being threats — and basketball playmaking disappears.
 
 ---
@@ -55,7 +68,9 @@ There’s a better question than:
 - “Why didn’t you pass?”
 
 It’s this:
+
 **“Have you worked on the play you just tried to make?”**
+
 That question:
 
 - Encourages aggression
@@ -81,7 +96,9 @@ It means:
 - Making decisions with intention
 
 Accountability in basketball development isn’t about stopping attempts.
+
 It’s about asking:
+
 **“Was that decision earned through work?”**
 
 ---
@@ -89,6 +106,7 @@ It’s about asking:
 ## Why Youth Basketball Players Become Passive in Games
 
 Watch youth basketball long enough and the pattern becomes obvious.
+
 Players who:
 
 - Catch and immediately swing the ball
@@ -97,7 +115,9 @@ Players who:
 - Look relieved when the ball leaves their hands
 
 They don’t look unselfish.
+
 They look uncertain.
+
 They’ve learned the safest way to survive is to **not be the one who tries**.
 
 ---
@@ -105,7 +125,9 @@ They’ve learned the safest way to survive is to **not be the one who tries**.
 ## Why Many Players Lack Ownership in Basketball
 
 This problem isn’t just tactical — it’s emotional.
+
 Many players aren’t playing basketball because they chose it.
+
 They’re playing because:
 
 - Parents signed them up
@@ -114,6 +136,7 @@ They’re playing because:
 - It’s what they’ve always done
 
 So ownership is already fragile.
+
 When those players are told not to play for themselves, the message compounds:
 
 - Don’t choose
@@ -158,7 +181,9 @@ It should sound like:
 - “What reaction were you trying to create?”
 
 Those questions force players to connect:
+
 **training → decision → outcome**
+
 That’s how basketball IQ actually improves.
 
 ---
@@ -172,6 +197,7 @@ Every great playmaker went through a phase of:
 - Making visible mistakes
 
 That phase wasn’t selfish — it was **necessary**.
+
 They learned:
 
 - Defensive reactions
@@ -179,6 +205,7 @@ They learned:
 - Timing and spacing
 
 You don’t eliminate mistakes to develop playmakers.
+
 You **study** them.
 
 ---
@@ -198,8 +225,11 @@ Strong environments:
 - Hold players accountable for decisions
 
 At Hoops College, the question is never:
+
 “Why did you try that?”
+
 It’s:
+
 **“Have you worked on that — and what did you see?”**
 
 ---
@@ -207,8 +237,11 @@ It’s:
 ## Basketball Playmaking Development: The Bottom Line
 
 If players never learn how to make plays for themselves, they’ll never make plays for others.
+
 If they don’t own why they play, they won’t own how they play.
+
 And if they aren’t held accountable to their preparation, freedom turns into chaos.
+
 Real basketball playmaking development requires:
 
 - Ownership
@@ -217,4 +250,5 @@ Real basketball playmaking development requires:
 - Proof of work
 
 That’s how players stop moving the ball —
+
 and start **creating advantage**.

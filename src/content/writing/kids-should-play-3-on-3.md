@@ -11,6 +11,7 @@ Kids should play 3 on 3 basketball simply because there are fewer players on the
 Well, [here's an article about why kids SHOULD NOT play 5 on 5](https://hoopscollege.com/coaching-youth-basketball/).
 
 Besides the issues described in the article above, there are so many other issues with 5 on 5 youth basketball.  
+
 1. **It costs so much money.** If your rent every month is less than it costs for you to play on a basketball team, you should ask yourself, "is it really worth it?" I can tell you it's probably not. [Because you're probably not getting the exposure that you want and you're probably not getting better either.](https://hoopscollege.com/evaluate-your-aau-program/)
 
 2. **It's too much on the kids physically**. There are way too many overuse injuries for kids at young ages. They specialize too early and they play way too many meaningless full-court games and don't get better from those experiences.
