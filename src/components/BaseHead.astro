@@ -1,6 +1,7 @@
 ---
 // <head> contents shared by every page.
 // Handles meta tags, OG image, fonts, and JSON-LD slots.
+import '@fontsource-variable/inter';
 import '../styles/global.css';
 import { SITE } from '../consts';
 
@@ -56,10 +57,6 @@ const fullTitle = title === SITE.title ? title : `${title} — ${SITE.title}`;
 <!-- Favicon (simple inline SVG) -->
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
-<!-- Inter via Google Fonts. Falls back to system stack if blocked. -->
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link
-  rel="stylesheet"
-  href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
-/>
+<!-- Inter is self-hosted via @fontsource-variable/inter.
+     Variable font, all weights, single woff2, no third-party requests. -->
+
