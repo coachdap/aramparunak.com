@@ -1,7 +1,7 @@
 ---
 title: "Choose Lonely (if you want to be great)"
 date: 2022-09-13
-description: "'You have to choose to be alone"
+description: "If you want to be great, you have to choose to be alone. Everyone around you wants you to stay where they are."
 featured: false
 tags: ["On greatness"]
 ---

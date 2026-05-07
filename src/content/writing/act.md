@@ -1,7 +1,7 @@
 ---
 title: "The Process: Knowledge vs Action Part 2"
 date: 2020-01-07
-description: "To know or to act. To be or to seem. This topic seems to be at the heart of success, on and off the court. We all know what we should do, yet many times we do..."
+description: "Knowing what to do isn't the same as doing it. Most people stop at knowing. The bridge between the two is where all the work lives."
 featured: false
 tags: ["On the work"]
 ---

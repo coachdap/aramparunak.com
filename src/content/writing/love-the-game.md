@@ -1,7 +1,7 @@
 ---
 title: "Love the Game"
 date: 2019-02-08
-description: "I hear so many people talk about how much they 'love the game' of basketball. Then I hear people talk about how they lost their love for it. I'm trying to..."
+description: "People say they love the game until the game asks something of them. Real love shows up when it's hard, not when it's easy."
 featured: false
 tags: ["On personal"]
 ---

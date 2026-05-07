@@ -1,7 +1,7 @@
 ---
 title: "Recruiting is More Than Just Sales"
 date: 2024-05-17
-description: "Recruiting is more than just a sales pitch.  Some coaches are labeled as good recruiters because people think they can make a good sales pitch to attract the..."
+description: "Sales without honest evaluation fails — in coaching, hiring, marketing. Selling someone the wrong thing is the fastest way to lose them."
 featured: false
 tags: ["On honesty"]
 ---

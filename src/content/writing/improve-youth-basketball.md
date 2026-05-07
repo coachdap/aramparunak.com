@@ -1,7 +1,7 @@
 ---
 title: "Improve Youth Basketball"
 date: 2023-05-18
-description: "Attention Youth Basketball Parents and Coaches,"
+description: "An open letter to the parents and coaches of youth basketball: what's broken, what's enabling it, and what it actually takes to fix."
 featured: false
 tags: ["On teaching"]
 ---

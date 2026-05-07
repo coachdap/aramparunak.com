@@ -1,7 +1,7 @@
 ---
 title: "For Serious Basketball Players"
 date: 2024-01-03
-description: "If you consider basketball just a recreational sport, that's great, but this isn't for you. Basketball is a great way to exercise, socialize and compete. It is..."
+description: "If basketball is recreation, this isn't for you. If it's something else, the standards are higher than you think."
 featured: false
 tags: ["On the work"]
 ---

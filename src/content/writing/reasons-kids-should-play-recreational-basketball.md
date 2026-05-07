@@ -1,7 +1,7 @@
 ---
 title: "Reasons Kids Should Play Recreational Basketball"
 date: 2022-10-19
-description: "Working with kids of all ages has been an interesting learning experience when it comes to their growth and development with the game of basketball.  I'm still..."
+description: "If your kid's team isn't actually teaching them, why are they there? A critique of low-standard environments."
 featured: false
 tags: ["On teaching"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Is Hard Work Enough?"
 date: 2018-10-31
-description: "I'm sure a lot of you put in a lot of hard work. I’m sure a lot of you have heard about the 10,000-hour rule at mastering a new skill. Well if you haven’t,..."
+description: "Hard work isn't enough. Hard work without focused practice and real feedback just makes you better at being mediocre."
 featured: false
 tags: ["On the work"]
 ---

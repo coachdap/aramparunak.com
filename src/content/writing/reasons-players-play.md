@@ -1,7 +1,7 @@
 ---
 title: "Reasons Players Play"
 date: 2020-05-26
-description: "Whether it's a 5-year-old who is playing basketball for the first time or a 50-year-old playing in the office lunch league or the best player in the world..."
+description: "Reasons don't matter. Effort and team-first attitude do. Whatever brought you to the game, those are the only things that decide what you get from it."
 featured: false
 tags: ["On personal"]
 ---

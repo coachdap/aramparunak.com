@@ -1,7 +1,7 @@
 ---
 title: "Expertise: Basketball and COVID-19"
 date: 2020-05-21
-description: "Expertise: expert skill or knowledge in a particular field"
+description: "Real expertise isn't certainty. It's asking questions and trusting only what survives them."
 featured: false
 tags: ["On honesty"]
 ---

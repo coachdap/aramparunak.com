@@ -1,7 +1,7 @@
 ---
 title: "New Year's Perspective"
 date: 2019-01-03
-description: "Here's a different perspective for your 2019. Going into the New Year, so many people have their resolutions of what they are going to do different or better..."
+description: "Resolutions don't matter. Knowing who you are and what's important to you does. Most people have those backwards."
 featured: false
 tags: ["On personal"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Development of basketball players"
 date: 2025-08-10
-description: "Developing basketball players is what we do every day.  For the past 7 years, working with everyone from beginners to pros of all ages, we have seen the full..."
+description: "Foundation first. Feet, then hands, then shooting. Skip the foundation and the building falls down — same in any craft."
 featured: false
 tags: ["On teaching"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Basketball Training is Hard"
 date: 2023-03-29
-description: "Thanks for the email. Our basketball training is hard. What we’ve learned in doing this is that when a player is eager and hungry to get better, they pester..."
+description: "Real training is hard. Most people quit when it gets that way. The ones who stay are the ones who get good."
 featured: false
 tags: ["On honesty"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Culture and Accountability"
 date: 2020-05-19
-description: "Culture and accountability are very often talked about together."
+description: "Culture is what you tolerate. Accountability is what keeps it real. One without the other is just talk."
 featured: false
 tags: ["On leadership"]
 ---

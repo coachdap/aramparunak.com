@@ -1,7 +1,7 @@
 ---
 title: "We Love Winners"
 date: 2021-05-19
-description: "We love winners because winners make us better. We've said many times, we don't care who we work with. We don't care if you're young or old. We don't care if..."
+description: "Winners crave the truth, not flattery. They lose now to win later. They're rare for a reason."
 featured: false
 tags: ["On greatness"]
 ---

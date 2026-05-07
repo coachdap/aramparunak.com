@@ -1,7 +1,7 @@
 ---
 title: "The Process: The Ingredients Part 3"
 date: 2020-01-08
-description: "The process of turning knowledge into action is like a recipe.  Turning information into action requires certain ingredients and certain instructions. The..."
+description: "Turning knowledge into action takes specific ingredients: commitment, effort, patience, opportunity, coaching."
 featured: false
 tags: ["On the work"]
 ---

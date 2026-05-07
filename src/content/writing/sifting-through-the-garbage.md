@@ -1,7 +1,7 @@
 ---
 title: "Sifting Through the Garbage"
 date: 2019-10-16
-description: "Honestly, social media is exhausting and mostly garbage. Recently, I struggle to understand it to the point that I find myself avoiding it. When I spend 30..."
+description: "Social media is mostly noise. Honest self-evaluation in one thing — the same thing — for years is what actually moves you forward."
 featured: false
 tags: ["On honesty"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The People Who Aren't on Your Page"
 date: 2018-11-27
-description: "The People Who Aren't on Your Page"
+description: "Some people aren't on your page. The ones who matter find their way there voluntarily — not because you talked them into it."
 featured: false
 tags: ["On personal"]
 ---

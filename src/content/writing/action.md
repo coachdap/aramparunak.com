@@ -1,7 +1,7 @@
 ---
 title: "The Process: Knowledge vs. Action Part 1"
 date: 2020-01-06
-description: "Most of us know what to do. Do we put that into action? So many coaches and players like talking about 'The Process.' This is not a commentary on Joel Embid...."
+description: "Most people know what to do. Few actually do it. The gap between knowing and acting is where almost everyone gets stuck."
 featured: false
 tags: ["On the work"]
 ---

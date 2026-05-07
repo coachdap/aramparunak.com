@@ -1,7 +1,7 @@
 ---
 title: "The Process: Conclusion Part 6"
 date: 2020-01-13
-description: "The process is so important in the development of our players and our team. We talk about the process with our players. We want them to practice hard. We want..."
+description: "Coaches preach the process. Few live it themselves. Whatever you're asking your players to do, do it harder than they do."
 featured: false
 tags: ["On leadership"]
 ---

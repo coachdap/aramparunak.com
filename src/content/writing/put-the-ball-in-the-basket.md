@@ -1,7 +1,7 @@
 ---
 title: "You gotta put the ball in the basket"
 date: 2019-12-18
-description: "You gotta put the ball in the basket. The game is called basketball.  The objective is to put the ball in the basket.  So simply said, yet for most teams, they..."
+description: "Strategy matters. Eventually you have to make the shot. Execution is what produces results — everything else is preparation."
 featured: false
 tags: ["On the work"]
 ---

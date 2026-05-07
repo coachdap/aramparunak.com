@@ -1,7 +1,7 @@
 ---
 title: "How Much Do We Love?"
 date: 2020-01-21
-description: "“But love doesn’t control, and I suppose that’s why it’s the ultimate risk. In the end, we have to hope the person we’re giving our heart to won’t break it,..."
+description: "Love and control are at odds. Real leaders serve their people instead of dictating to them."
 featured: false
 tags: ["On leadership"]
 ---

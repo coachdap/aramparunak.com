@@ -1,7 +1,7 @@
 ---
 title: "Coaching Youth Basketball"
 date: 2020-01-29
-description: "Coaching youth basketball is many times a volunteer service.  Coaches don't get paid or at least not enough to make it their full-time job. Teams might..."
+description: "Most youth coaches volunteer or get underpaid. The job they're being asked to do requires more than that arrangement gives."
 featured: false
 tags: ["On teaching"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The Process: The Bridge Part 5"
 date: 2020-01-10
-description: "This topic of knowledge vs. action is extremely interesting to me. The most interesting part is that little 'vs.' that's in the middle. It's that bridge. It's..."
+description: "Knowledge doesn't become action by itself. The bridge between them is repetition under real pressure — the part most people skip."
 featured: false
 tags: ["On the work"]
 ---
