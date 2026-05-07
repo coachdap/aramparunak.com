@@ -1,0 +1,21 @@
+---
+title: "Chase Excellence, Not Perfection"
+date: 2022-10-19
+description: "We think it's critical to chase excellence, not perfection. I think perfectionism is something we as a society don’t understand very well. To me, perfectionism..."
+featured: false
+tags: ["On personal"]
+---
+
+We think it's critical to chase excellence, not perfection. I think perfectionism is something we as a society don’t understand very well. To me, perfectionism is a true double-edged sword. It gives high achievers the obsessive drive to work insanely hard & be hyper-focused on becoming the best. But, it is also what keeps them from being their best because of the fear they have of failure. I think most people think perfectionism is being flawless and this in turn makes them the best. In actuality, perfectionism is a defensive mechanism. It is a voice that tells us that if we look perfect, act perfect, and do perfectly we will avoid being shamed, judged, blamed, or criticized. I know firsthand the impact it makes on an athlete…it’s HARD to deal with.
+
+Perfectionism by definition is a “refusal to accept any standard short of being without flaws.” The opposite of perfectionism is chasing excellence. Chasing excellence is the effort to do your very best in any given situation. Chasing excellence requires huge amounts of self-discipline, **the ability and willingness to fail**, and the ability to build confidence through years of work.
+
+As someone who struggled with perfectionism growing up, when I see someone like me, I want to help. Trust me, it’s a weird head space to live in, much less to perform in and I can relate to them. When it came to basketball, I was highly competitive, highly driven, very athletic, and very behind. Basketball was by far my worst sport, but it was the one I loved. 
+
+School was hard too. I had a teacher in 7th grade that made us write our papers in pen. I would write the whole paper out in pencil and copy it onto another piece of paper in pen. If I messed up on one word instead of scratching it out and continuing, I would just throw the whole paper away and start over, even if it was in the very last paragraph. I hated messing up and I hated, even more, when people knew that I messed up. 
+
+When I played basketball I hated missing shots and when people saw me miss I literally didn’t know how to handle it. I knew I was working and I knew I was a better player than my teammates; however, I just couldn’t make myself shoot in a game. I would ride home from games and cry, not because I didn’t score points, but because I was so conflicted and frustrated on the inside. I wanted to be the best and I put in a ton of work, but I couldn’t make myself do it because I was so afraid of messing up and “failing.” I worked in the dark for 4 years and when it clicked at fifteen, it was different! I still struggle with letting people in and seeing the messy parts. I think perfectionism is something that will always be a struggle for many of us. 
+
+In our gym, we try really hard to help the kids we work with know it’s awesome that they aren’t “perfect” and that all we ask them to do is, listen, try and work hard. We want them to know messing up is a big part of life, but it doesn’t define them. We want our gym always to be a safe place for them to be able to mess up and fail and learn the world isn’t ending. I never want anyone to struggle as I did. Being an athlete is physically hard, but it’s also mentally hard too. There are so many battles that athletes face and many times they have to face them in public and at a young age. 
+
+I don’t know the “secret” to learn how to channel our perfectionism, I think it’s different for everyone. I know for me, it took failing, not playing, tough love and patience from my parents, and years of obsessive hard work from me to build my confidence. I know you have to fall in love with the process of growth and care about more than the end result. I know you have to surround yourself with people that will allow you to fail and continue to encourage you to chase excellence and not worry about being perfect.

@@ -1,0 +1,25 @@
+---
+title: "Recruiting is More Than Just Sales"
+date: 2024-05-17
+description: "Recruiting is more than just a sales pitch.  Some coaches are labeled as good recruiters because people think they can make a good sales pitch to attract the..."
+featured: false
+tags: ["On honesty"]
+---
+
+Recruiting is more than just a sales pitch.  Some coaches are labeled as good recruiters because people think they can make a good sales pitch to attract the talent that they want.  That may be true.  But the best recruiters can also evaluate talent.  This goes for players as well. The players who have the most success in recruiting can accurately evaluate themselves and the prospective programs that they might attend.  I think the thing that everybody’s missing out on in this whole recruiting equation is the evaluation piece.  There are two parts to recruiting. Evaluation and sales. And this is on both sides of the equation.  There’s the player’s side and the coaches’ side  Everyone wants to do the marketing part.  That’s the easy and fun part.  That gets the likes, the clicks, and the comments. The evaluation part is hard.  And many times, it isn’t what players or coaches want to do. 
+
+It’s easy to make a highlight video to promote a player or promote a school.  Players, can you evaluate yourself?  Coaches, can you evaluate your needs and evaluate players that can fit your needs?  Players, can you evaluate the coaches and their programs to make sure you're a good fit for that program?  In my experience, the answer in most cases is no.  
+
+The best coaches are the best evaluators. They can evaluate what a player can or cannot do.  They can evaluate whether or not that player will translate to their level and system.  Or they realize they may have to change their system if they recruit and sign a certain player. They can evaluate what their team needs and if that player can fulfill that need.
+
+Too many college coaches are not good evaluators of talent. Some of them are just really lazy. They aren’t willing to do what it takes to find the best players for them. Some coaches aren’t lazy, they are just good at being Captain Obvious but that player doesn’t fit their style of play and they aren’t willing to adjust.  This list goes on and on.  
+
+The same goes for players (and their circle) as well.  We always ask the players we work with to evaluate themselves. It doesn’t matter how old they are.  They aren’t stupid except for when we think and do everything for them.  Players must be able to evaluate themselves and where they fit in.  Most of the time they don’t, and they chase the hype because it makes them feel good in the moment instead of really evaluating where they are.  If players spent more time honestly evaluating themselves, they would realize that they need to get better and spend more time in the gym.  But that’s not easy or fun. It’s so much easier to make a highlight video than to really evaluate yourself and get better.  
+
+I’m very certain that most recruiting services are not doing a good job of evaluating athletes and telling them what level they can successfully play. They might not promise that a player will get a Division 1  or Division 2 scholarship but they probably aren’t being honest with them that they probably won’t either.  Most players can’t play at the scholarship level. Recruiting services won’t tell people that because it means less revenue for them.  My biggest issue is that I don't think they can really help a player evaluate their decisions.  They aren't good evaluators of talent with the ability to help players understand what might be a good fit for them.  They are marketers, not evaluators.  Recruiting is both.  
+
+The truth is that scholarship level players don’t need recruiting services and in today’s world of the transfer portal and NIL, it’s even more true. Coaches can watch any game of any college player anytime they want to. They don’t need to sift through emails of random people or recruiting services to find players.  If a coach decides they don’t want to recruit a transfer, there are numerous places coaches look and from my experience, it was never NCSA or anything like them.  How many times did I use a recruiting service to recruit a player?  Never.  
+
+If you think you’re a scholarship-level player and you’re not getting recruited at that level, you’re probably not at that level yet.  And that’s the key.  **YET**.  You could be one day.  But having been in this business for 25 years and worked with hundreds and thousands of athletes, I can tell you that there’s probably a reason.  And yes, some players get recruited even though they probably shouldn’t.  But here’s my thing, do you want to play for a coach that can’t evaluate?  That means they can’t evaluate the other team and develop a good game plan.  That means your teammates might not be very good either.  
+
+The real key to success is constant evaluation and then intentional work to improve that evaluation.  We help players and coaches do that.  [Let us know if we can help you.](https://www.hoopscollege.com/contact/)

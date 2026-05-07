@@ -8,7 +8,7 @@ tags: ["On teaching"]
 
 Kids should play 3 on 3 basketball simply because there are fewer players on the court. Your next statement might accuse me of being Captain Obvious in the Hotels.com commercial. Of course, there are fewer players, but that doesn't tell me WHY kids should play 3 on 3 instead of 5 on 5. After all, basketball is a 5 on 5 game right?
 
-Well, [here's an article about why kids SHOULD NOT play 5 on 5](https://www.hoopscollege.com/coaching-youth-basketball/).
+Well, [here's an article about why kids SHOULD NOT play 5 on 5](/writing/coaching-youth-basketball/).
 
 Besides the issues described in the article above, there are so many other issues with 5 on 5 youth basketball.  
 
