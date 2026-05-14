@@ -4,6 +4,10 @@ import mdx from '@astrojs/mdx';
 
 export default defineConfig({
   site: 'https://aramparunak.com',
+  trailingSlash: 'always',
+  build: {
+    format: 'directory',
+  },
   integrations: [mdx(), sitemap()],
   markdown: {
     shikiConfig: {
