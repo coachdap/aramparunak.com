@@ -45,7 +45,7 @@ But he was saying them without looking in the mirror.
 
 The question I can't shake is whether I'm ever in that position without knowing it. Is there a version of me giving the warning while being the problem? That's the fear: the gap between what I think I'm delivering and what I'm actually delivering might be bigger than I know.
 
-[Concrete example goes here, three to five sentences. A session where you caught yourself coasting, a correction you let slide, or tape that showed you something you missed in the room. Describe what happened, how you found out, and what you changed.]
+I mess up every day. Most of the time I catch it in the moment — a correction I almost let slide, an explanation that didn't land, a drill that wasn't doing what I needed it to do — and I fix it right there. That's the part I can see. The part that keeps me up is the mistake I don't catch, the one that walks out of the gym with the player and never comes back to me.
 
 The only answer I have is to keep closing that gap on purpose. Ask for feedback I don't want. Study what I do, not just what I intend to do. Watch sessions back and be brutal. Care about results more than I care about looking like someone who cares about results.
 
